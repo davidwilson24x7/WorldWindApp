@@ -3,7 +3,7 @@
 # [WorldWindApp](https://github.com/davidwilson3200/WorldWindApp) 
 
 
-![Image](images/image.png)
+![Image](/public/images/image.png)
 
 
 # NASA Web WorldWind App
